@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, Eu sou o Anderson Vargas👋
 
-<!--
-**andersonlvargas/andersonlvargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente sou doutorando em ecologia na UFRJ 
+- Aprendendo sobre ciência de dados
+- Me enteresso por análises multivariadas e machine learning
+- Gosto de ler e descobrir coisas novas
+- anderson.lvferreira@gmail.com
 
-Here are some ideas to get you started:
+<a href="https://github.com/andersonlvargas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonlvargas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlvargas&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
