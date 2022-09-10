@@ -1,4 +1,4 @@
-### Hi there, Eu sou o Anderson Vargas👋
+### Hi, eu sou o Anderson Vargas👋
 
 - Atualmente sou doutorando em ecologia na UFRJ 
 - Aprendendo sobre ciência de dados
